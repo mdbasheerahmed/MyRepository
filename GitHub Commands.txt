@@ -16,3 +16,5 @@ git branch  //wil give you all the baranches along with master (branches associa
 git branch feature1 //will create a branch for you which will contain complete copy of the master to do changes against, you create
                     a branch inside the master folder.
 git checkout feature1  //This command will switch to the branch under master to checkin your code against
+git merge master // Run this command staying inside feature1 branch this will add changes to master if there are not conflict
+git push ---set-upstream origin feature1
