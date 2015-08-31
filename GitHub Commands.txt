@@ -1,0 +1,18 @@
+git clone https://github.com/mdbasheerahmed/MyRepository.git // Gets clone of REpo
+git status //Gives status of repo
+git add xxxx.html //Add to Github
+git commit -m "This is the first file"  //Commits
+git push //Pushes changes to GIT
+
+git pull //Gets changes to loal repo
+git add .   //Will checkin every thing in your directory
+git add index.html  //only checkin this file
+git add -A //Will checkin every thing not a good idea but if you know what are you doing 
+git commit -m "this is to commit"  //To commit changes are add
+:wq is used when there is comment screen comes with out cursor to enter basically this happens when you enter "commit" with out "-m"
+
+
+git branch  //wil give you all the baranches along with master (branches associated with master)
+git branch feature1 //will create a branch for you which will contain complete copy of the master to do changes against, you create
+                    a branch inside the master folder.
+git checkout feature1  //This command will switch to the branch under master to checkin your code against
