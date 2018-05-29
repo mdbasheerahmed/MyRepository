@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 467223202,
+              "duration": 378983273,
               "status": "passed"
             },
             "line": 4,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 117036,
+              "duration": 82921,
               "status": "passed"
             },
             "line": 5,
@@ -35,7 +35,7 @@
           },
           {
             "result": {
-              "duration": 72636,
+              "duration": 63195,
               "status": "passed"
             },
             "line": 6,
@@ -57,7 +57,7 @@
         "steps": [
           {
             "result": {
-              "duration": 83145,
+              "duration": 93959,
               "status": "passed"
             },
             "line": 10,
@@ -69,7 +69,7 @@
           },
           {
             "result": {
-              "duration": 3579932,
+              "duration": 2723061,
               "status": "passed"
             },
             "line": 11,
@@ -91,7 +91,7 @@
           },
           {
             "result": {
-              "duration": 76522,
+              "duration": 58847,
               "status": "passed"
             },
             "line": 12,
@@ -103,7 +103,7 @@
           },
           {
             "result": {
-              "duration": 349792,
+              "duration": 113683,
               "status": "passed"
             },
             "line": 13,
@@ -136,7 +136,7 @@
         "steps": [
           {
             "result": {
-              "duration": 87239,
+              "duration": 98395,
               "status": "passed"
             },
             "line": 4,
@@ -148,7 +148,7 @@
           },
           {
             "result": {
-              "duration": 71786,
+              "duration": 69813,
               "status": "passed"
             },
             "line": 5,
@@ -160,7 +160,7 @@
           },
           {
             "result": {
-              "duration": 64324,
+              "duration": 62335,
               "status": "passed"
             },
             "line": 6,
@@ -182,7 +182,7 @@
         "steps": [
           {
             "result": {
-              "duration": 182287,
+              "duration": 69076,
               "status": "passed"
             },
             "line": 17,
@@ -194,7 +194,7 @@
           },
           {
             "result": {
-              "duration": 364885,
+              "duration": 128669,
               "status": "passed"
             },
             "line": 18,
@@ -216,7 +216,7 @@
           },
           {
             "result": {
-              "duration": 86929,
+              "duration": 67423,
               "status": "passed"
             },
             "line": 19,
@@ -228,7 +228,7 @@
           },
           {
             "result": {
-              "duration": 139272,
+              "duration": 82275,
               "status": "passed"
             },
             "line": 20,
@@ -261,7 +261,7 @@
         "steps": [
           {
             "result": {
-              "duration": 85207,
+              "duration": 61879,
               "status": "passed"
             },
             "line": 4,
@@ -273,7 +273,7 @@
           },
           {
             "result": {
-              "duration": 130124,
+              "duration": 53011,
               "status": "passed"
             },
             "line": 5,
@@ -285,7 +285,7 @@
           },
           {
             "result": {
-              "duration": 249139,
+              "duration": 63893,
               "status": "passed"
             },
             "line": 6,
@@ -307,7 +307,7 @@
         "steps": [
           {
             "result": {
-              "duration": 51781,
+              "duration": 1005539,
               "status": "passed"
             },
             "line": 24,
@@ -319,7 +319,7 @@
           },
           {
             "result": {
-              "duration": 570928,
+              "duration": 161250,
               "status": "passed"
             },
             "line": 25,
@@ -341,7 +341,7 @@
           },
           {
             "result": {
-              "duration": 50476,
+              "duration": 51468,
               "status": "passed"
             },
             "line": 26,
@@ -353,7 +353,7 @@
           },
           {
             "result": {
-              "duration": 273585,
+              "duration": 146603,
               "status": "passed"
             },
             "line": 27,
@@ -386,7 +386,7 @@
         "steps": [
           {
             "result": {
-              "duration": 85270,
+              "duration": 166514,
               "status": "passed"
             },
             "line": 4,
@@ -398,7 +398,7 @@
           },
           {
             "result": {
-              "duration": 106430,
+              "duration": 53313,
               "status": "passed"
             },
             "line": 5,
@@ -410,7 +410,7 @@
           },
           {
             "result": {
-              "duration": 216105,
+              "duration": 117977,
               "status": "passed"
             },
             "line": 6,
@@ -423,7 +423,7 @@
         ]
       },
       {
-        "line": 29,
+        "line": 30,
         "name": "Home page default login",
         "description": "",
         "id": "portal-login;home-page-default-login",
@@ -432,10 +432,10 @@
         "steps": [
           {
             "result": {
-              "duration": 538566,
+              "duration": 59517,
               "status": "passed"
             },
-            "line": 30,
+            "line": 31,
             "name": "User is on NetBanking landing page",
             "match": {
               "location": "stepDefination.user_is_on_netbanking_landing_page()"
@@ -444,10 +444,10 @@
           },
           {
             "result": {
-              "duration": 2566973,
+              "duration": 1755269,
               "status": "passed"
             },
-            "line": 31,
+            "line": 32,
             "name": "User sign up with following details",
             "match": {
               "location": "stepDefination.user_sign_up_with_following_details(DataTable)"
@@ -461,17 +461,17 @@
                   "Australia",
                   "3242353"
                 ],
-                "line": 32
+                "line": 33
               }
             ],
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 101865,
+              "duration": 91315,
               "status": "passed"
             },
-            "line": 33,
+            "line": 34,
             "name": "Home page is populated",
             "match": {
               "location": "stepDefination.home_page_is_populated()"
@@ -480,10 +480,10 @@
           },
           {
             "result": {
-              "duration": 196146,
+              "duration": 152160,
               "status": "passed"
             },
-            "line": 34,
+            "line": 35,
             "name": "Cards displayed are \"false\"",
             "match": {
               "arguments": [
@@ -499,7 +499,7 @@
         ],
         "tags": [
           {
-            "line": 28,
+            "line": 29,
             "name": "@PortalTest"
           }
         ]
